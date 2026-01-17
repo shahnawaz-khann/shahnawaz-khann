@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Shahnawaz Khan👋
 
-<!--
-**shahnawaz-khann/shahnawaz-khann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engineer | Learning Data Science and ML
+- 🔭 Building full-stack and backend systems with a focus on clean design and maintainability.
+- 🌱 Studying Data Science and applying ML concepts where they add practical value.
+- 🔧 Improving problem-solving, data structures, system design fundamentals, and core engineering skills.
 
-Here are some ideas to get you started:
+Keywords: `software engineering`, `data science`, `backend`, `full stack`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+- LinkedIn: https://linkedin.com/in/shahnawaz-khann  
+- LeetCode: https://leetcode.com/shahnawaz-khann  
+- X (Twitter): https://twitter.com/shah_khann_  
+- Email: contact.shahnawazX@gmail.com
