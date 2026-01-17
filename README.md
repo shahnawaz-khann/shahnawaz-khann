@@ -10,5 +10,5 @@ Keywords: `software engineering`, `data science`, `backend`, `full stack`
 ## 📫 Connect with Me
 - LinkedIn: https://linkedin.com/in/shahnawaz-khann  
 - LeetCode: https://leetcode.com/shahnawaz-khann  
-- X (Twitter): https://twitter.com/shah_khann_  
+- X (Twitter): https://twitter.com/shah_khann_/  
 - Email: contact.shahnawazX@gmail.com
